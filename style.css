@@ -13,4 +13,9 @@ body {
     background-color: #00f;
     font-family: Arial, sans-serif;
     z-index: 2;
+    opacity: 0;
+    
+}
+#Canvas { 
+    display: block; 
 }
