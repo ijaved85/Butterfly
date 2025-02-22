@@ -38,10 +38,10 @@ const setup = () => {
         paused = !paused;
     }
 
-    c.ondblclick = () => {
+ /*   c.ondblclick = () => {
         clear(ctx);
         fc = 0;
-    }
+    }*/
 
     // begin animation
     window.requestAnimationFrame(animate);
